@@ -6,6 +6,6 @@ I'm an enthusiast of technology, programing and cybersecurity. Lately, I study I
 
 17 years old 😄
 
-Brazilian, RN 🌴😎
+Brazilian, RN 🌴
 
 "The mind that opens up to a new idea never returns to its original size."
