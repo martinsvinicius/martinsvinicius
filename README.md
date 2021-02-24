@@ -2,9 +2,9 @@
 
 ## Hi, everyone 👋
 
-I'm an enthusiast of technology, programing and cybersecurity. Lately, I study IT at @IFRN and I'm an intern full stack developer for UNIFACEX.
+I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at @IFRN and I'm an intern full stack developer for UNIFACEX.
 
-17 years old 😄
+17 years old 😎
 
 Brazilian, RN 🌴
 
