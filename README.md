@@ -4,7 +4,7 @@
 
 I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at IFRN and I'm a developer for GCTI.
 
-17 years old 😎
+18 years old 😎
 
 Brazilian, RN 🌴
 
