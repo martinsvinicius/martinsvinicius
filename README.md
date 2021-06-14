@@ -16,6 +16,9 @@
 <br />
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius5g&show_icons=true&theme=radical)
+<br />
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius5g&show_icons=true&theme=radical&layout=compact)
 
 I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at IFRN and I'm a developer for GCTI.
 
