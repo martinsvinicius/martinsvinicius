@@ -26,6 +26,6 @@ I'm an enthusiast of technology, programming and cybersecurity. Lately, I study 
   - Reactjs | React Native
   - Nodejs
   - Angular
-  - maybe Java 😬
+  - Java
 
 *"The mind that opens up to a new idea never returns to its original size."*
