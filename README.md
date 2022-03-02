@@ -17,7 +17,7 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsvinicius&show_icons=true&theme=radical&layout=compact)
 
-I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at IFRN and I'm a developer for GCTI.
+I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at UFRN and I'm a software engineer for Grão.
 
 - Technologies that I like to work
   - Reactjs | React Native
