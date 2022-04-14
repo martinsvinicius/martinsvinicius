@@ -20,9 +20,9 @@
 I'm an enthusiast of technology, programming and cybersecurity. Lately, I study IT at UFRN and I'm a software engineer for Grão.
 
 - Technologies that I like to work
-  - Reactjs | React Native
-  - Nodejs
-  - Angular
-  - Java
+  - Reactjs & React Native
+  - Nodejs & Nestjs
+  - Java & Kotlin
+  - JS & TS
 
 *"The mind that opens up to a new idea never returns to its original size."*
